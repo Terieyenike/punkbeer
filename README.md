@@ -21,4 +21,4 @@ Feel free to use parts of the code in your own projects with attribution.
 
 Teri
 
-[Project live]()
+[Project live](https://beerlovers.netlify.app/)
